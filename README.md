@@ -1,2 +1,2 @@
 # Basic-Git-Example
-Started DevOps journey 
+Automating AWS with Terraform
